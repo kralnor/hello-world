@@ -1,2 +1,4 @@
 # hello-world
-starting repository
+Starting repository
+
+I am new to programming and am starting to learn Python
