@@ -1,4 +1,4 @@
 # hello-world
-starting repository
+Starting repository
 
-New to programmint. Starting to learn Python
+I am new to programming and am starting to learn Python
